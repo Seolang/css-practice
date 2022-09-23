@@ -21,6 +21,8 @@
     justify-content: center;
 }
 
+
+
 .item1 {
     grid-column: 1/4;
     background-color: rgb(115, 222, 175);
