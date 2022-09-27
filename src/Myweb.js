@@ -11,7 +11,6 @@ const Myweb = () => {
                 <div className={`${styles.box} ${styles.item4}`}>4</div>
                 <div className={`${styles.box} ${styles.item5}`}>5</div>
                 <div className={`${styles.box} ${styles.item6}`}>6</div>
-                
 
             </div>
         </div>
